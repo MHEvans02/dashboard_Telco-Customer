@@ -184,7 +184,7 @@ El dashboard ejecutivo está publicado en **Tableau Public** — una historia de
 5. Facturación y pagos
 6. Segmentos de riesgo y conclusiones
 
-🔗 **[Ver dashboard en Tableau Public](#)** *(agregar link tras publicar)*
+
 
 ---
 
