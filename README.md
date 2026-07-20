@@ -192,7 +192,7 @@ El dashboard ejecutivo está publicado en **Tableau Public** — una historia de
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/MHEvans02/<nombre-del-repo>.git
+git clone https://github.com/MHEvans02/dashboard_Telco-Customer.git
 cd <nombre-del-repo>
 
 # 2. Instalar dependencias
